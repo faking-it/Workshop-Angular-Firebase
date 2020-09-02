@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "workshop-angular-a2fcc": {
+      "hosting": {
+        "workshop-angular": [
+          "workshop-angular-a2fcc"
+        ]
+      }
+    }
+  }
+}
